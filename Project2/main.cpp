@@ -35,10 +35,7 @@ void calc(int i);
 void calc(LongDouble ld);
 int main()
 {
-	SmallInt s1(1);
-	LongDouble ld;
-	s1 + ld;
-	ld + s1;
+
 	system("pause");
 }
 void calc(int i) {
